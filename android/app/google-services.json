@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "398396733742",
+    "project_id": "dummyproject-bce33",
+    "storage_bucket": "dummyproject-bce33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398396733742:android:12c29e7c83aa3d36f4e2bf",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398396733742-s7gbdu3ufg1o9gm2n0ttdd5tnn49gbon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_signin",
+            "certificate_hash": "828d48df7b62ee125d65132161f9759fb1616ebb"
+          }
+        },
+        {
+          "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQrVdE0UdQ_XRo8B5X78tTQTblRUyU8-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398396733742-4gc4dl2cc55ec82cpov7uo26q1l262ja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleSignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398396733742:android:b3df9ec03725c2fcf4e2bf",
+        "android_client_info": {
+          "package_name": "com.example.google_signin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398396733742-50do3c246fju9ct8uai5kmrbsj23hejv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_signin_example",
+            "certificate_hash": "828d48df7b62ee125d65132161f9759fb1616ebb"
+          }
+        },
+        {
+          "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQrVdE0UdQ_XRo8B5X78tTQTblRUyU8-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398396733742-4gc4dl2cc55ec82cpov7uo26q1l262ja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleSignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398396733742:android:bdc681564d209c89f4e2bf",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQrVdE0UdQ_XRo8B5X78tTQTblRUyU8-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398396733742-4gc4dl2cc55ec82cpov7uo26q1l262ja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleSignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398396733742:android:ea3faa6e6f5f0114f4e2bf",
+        "android_client_info": {
+          "package_name": "com.healtho_max.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQrVdE0UdQ_XRo8B5X78tTQTblRUyU8-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398396733742-4gc4dl2cc55ec82cpov7uo26q1l262ja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleSignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398396733742:android:c50ec3c03c178964f4e2bf",
+        "android_client_info": {
+          "package_name": "com.taskManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQrVdE0UdQ_XRo8B5X78tTQTblRUyU8-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398396733742-a648h8i7ibvakidhr4c2jqviq6f3bqa3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398396733742-4gc4dl2cc55ec82cpov7uo26q1l262ja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleSignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
