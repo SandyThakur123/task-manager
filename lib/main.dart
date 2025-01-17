@@ -68,6 +68,7 @@ class TaskScreen extends StatelessWidget {
                   );
                 }
               },
+              
               child: Text('Add Task'),
             ),
             Expanded(
